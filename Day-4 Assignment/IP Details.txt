@@ -1,0 +1,6 @@
+Linux1 Public IP:- 3.129.65.192
+Linux2 Public IP:- 3.129.52.142
+Ubuntu Public IP:- 3.17.182.65
+
+
+ELB DNS Name IP: LoadBalancer-1073490978.us-east-2.elb.amazonaws.com
